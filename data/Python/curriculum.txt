@@ -1,0 +1,11 @@
+Program Curriculum
+
+Semester 1
+Python for AI
+Machine Learning
+Data Engineering
+
+Semester 2
+Agentic Systems
+LLM Applications
+AI Product Design

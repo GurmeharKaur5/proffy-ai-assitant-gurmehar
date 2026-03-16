@@ -1,0 +1,9 @@
+Course Name: Java Programming
+
+Duration: 4 Months
+
+Java is a powerful object-oriented programming language used
+for building enterprise applications, Android apps, and backend systems.
+
+This course teaches students Java fundamentals and advanced
+object-oriented programming concepts.

@@ -1,0 +1,12 @@
+Course Name: Python Programming
+
+Duration: 3 Months
+
+Python is one of the most popular programming languages used for web development,
+data science, machine learning, and automation.
+
+This course teaches students the fundamentals of Python programming
+including variables, loops, functions, and object-oriented programming.
+
+Students will also learn how Python is used in real-world applications
+such as data analysis and AI development.

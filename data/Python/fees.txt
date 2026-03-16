@@ -1,0 +1,5 @@
+Python Course Fee: ₹9,999
+
+Payment Options:
+- Full Payment
+- Installments Available

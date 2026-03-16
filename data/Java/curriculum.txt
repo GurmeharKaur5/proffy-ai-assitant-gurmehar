@@ -1,0 +1,12 @@
+Java Course Curriculum
+
+1. Introduction to Java
+2. Java Syntax and Variables
+3. Control Statements
+4. Object-Oriented Programming
+5. Classes and Objects
+6. Inheritance
+7. Polymorphism
+8. Exception Handling
+9. Collections Framework
+10. Basic Backend Development
